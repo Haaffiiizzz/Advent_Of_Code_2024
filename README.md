@@ -1,1 +1,1 @@
-# Advent_Of_Code_2024
+Repository for my advent of code solutions!
